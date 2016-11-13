@@ -1,0 +1,42 @@
+﻿
+[{
+    "category":"规范",
+    "name": "HTML4/5、ES5/6、CommonJs、Amd、Cmd",
+    "level": "了解互联网的一些常用规范的知识内容",
+    "time":"一年"
+  }, {
+    "category":"框架",
+    "name": "Jquery、Zepto、Angular、Easyui、BootStrap、Mui、Yo、Ionic",
+    "level": "灵活运用众多的框架内容，包括纯界面框架、交互框架及软件集成应用框架",
+    "time":"一年"
+  }, {
+    "category":"插件类库",
+    "name": "Swiper、Iscroll",
+    "level": "熟练操作各种类库及框架插件",
+    "time":"一年"
+  }, {
+    "category":"插件类库",
+    "name": "webapp、webChat Jssdk、phonegap",
+    "level": "轻松实现轻应用开发、微信集成以及独立移动软件的混合式开发",
+    "time":"一年"
+  }, {
+    "category":"工具",
+    "name": "Fekit、gulp、Hbuilder、Atom、Sublime",
+    "level": "对于前端自动化构建工作能够在不同的项目里进行恰当的使用与整合",
+    "time":"一年"
+  }, {
+    "category":"知识拓展",
+    "name": "行业知识",
+    "level": "了解互联网的发展及趋势，移动应用成为未来的方向",
+    "time":"一年"
+  }, {
+    "category":"原生js",
+    "name": "JavaScript",
+    "level": "原生JavaScript",
+    "time":"一年"
+  }, {
+    "category":"移动端框架",
+    "name": "Zepto",
+    "level": "针对PC端Dom对象的开发模式，较为熟悉",
+    "time":"一年"
+  }]

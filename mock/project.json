@@ -1,0 +1,30 @@
+﻿[
+	{
+		"category":"电商网站",
+		"name":"美丽说",
+		"url":"http://1111.meilishuo.com/",
+		"image":"img/horays.png",
+		"description":"美丽说的官方网站，详细介绍了和瑞控股公司的主要情况",
+		"detail":"项目耗时3周，主要处理前端页面及程序嵌套，当时并未要求移动端适配，故该网站只适应于PC端应用",
+		"tech":"Html、Css3、JS、jQuery、bootstrap等"
+	},
+	{
+		"category":"电商网站",
+		"name":"蘑菇街",
+		"url":"http://www.mogujie.com/",
+		"image":"../images/mogujie.png",    
+		"description":"蘑菇街是集团旗下定位于年轻女性用户时尚的媒体与时尚消费类App",
+		"detail":"长期维护，功能迭代，包括平台整体UI改进以及功能模块的增加与性能的优化",
+		"tech":"Html、Css3、Javascript、Jquery、swiper、git、gulp等"
+	},    
+
+	{
+		"category":"电商网站",
+		"name":"国美在线",
+		"url":"http://www.gome.com.cn/",
+		"images":"images/zhengjiaotong.png",
+		"description":"国美在线是国美电器唯一的官方网上商城",
+		"detail":"项目初建耗时1月，主要包括数据支撑平台的建设",
+		"tech":"Html5、Css3、jQuery、AngularJs等"
+	}
+]

@@ -1,0 +1,24 @@
+
+	#footer{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+	}
+	#footer>div{
+		flex: 1;
+		font-size: 20px;
+		line-height: 48px;
+		height: 100%;
+		color: white;
+		text-align: center;
+		background: url(../images/btn1.png)no-repeat;
+		background-size: 100% 100%;
+		border-radius:50%;
+	}
+	#footer div:hover{
+		background:url(../images/q10.jpg)no-repeat;
+		background-size: 100% 100%;
+		
+	}
